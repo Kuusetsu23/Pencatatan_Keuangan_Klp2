@@ -1,4 +1,4 @@
-package com.kelompok2.pencatatankeuangan;
+package com.kelompok2.pencatatankeuangan.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
